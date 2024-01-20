@@ -1,4 +1,5 @@
 // какой же "кайф" писать без сторонних модулей)
+// для запуска программы используйте в консоли: node 06-build-page
 const fs = require('fs');
 const path = require('path');
 
